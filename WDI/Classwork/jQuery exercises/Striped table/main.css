@@ -1,0 +1,39 @@
+h3{
+	text-align: center;
+	color: #333;
+}
+
+table {
+	margin: 10px auto;
+}
+
+th {
+	font-weight: bold;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+td {
+	color: black;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+form {
+	padding: 10px;
+	text-align: center;
+
+}
+input{
+	width: 100px;
+}
+
+form input {
+	width: 250px;
+	text-align: center;
+}
+
+button {
+	margin: auto;
+	color: green;
+}
